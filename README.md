@@ -100,6 +100,31 @@ Exemplo:
 - [x] Tarefa concluída
 - [ ] Tarefa pendente
 
-## Referências
-## Notas de rodapé
+## Referências e notas de rodapé
+Permitem adicionar notas de rodapé para fornecer mais informações sobre o conteúdo do documento
+
+Exemplo:
+
+Aqui é um exemplo de marcação de rodapé[^1]
+
+A aula é com o Ricardo[^2]
+
+[^1]: Rodapé: conteúdo inferior do texto
+[^2]: Ricardo: Professor da turma de Git
 ## Alertas
+São usados para destacar informações importantes, como notas, avisos ou mensagens
+
+Exemplo:
+
+> **Note**
+> Esta é uma nota
+
+> [!NOTE]
+> Destaca informações que os usuários devem levar em consideração, mesmo durante a leitura superficial
+
+> [!IMPORTANT]
+> Informações cruciais necessárias para o sucesso dos usuários
+
+
+> [!WARNING]
+> Conteúdo crítico que exige atenção imediata do usuário devido a riscos potenciais
