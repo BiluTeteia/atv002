@@ -48,9 +48,45 @@ Exemplo:
 ![Imagem](URL.da_imagem)
 
 ## Ênfase
+Permitem enfatizar texto, como itálico, negrito, tachado, subscrito, sobrescrito
+
+Exemplo:
+
+_Texto em itálico_
+
+**Texto em negrito**
+
+~~Texto tachado~~
+
+<sub> Texto subscrito </sub>
+
+<sup> Texto sobrescrito </sup>
+
 ## Citações em bloco
+São usados para destacar uma citação ou  bloco de texto
+
+Exemlo: 
+
+> Isso é uma citação em bloco
+
 ## Linhas Horizontais
+
+São usadas para criar uma linha horizontal para separar seções do documento
+
+Exemplo:
+
+---
+
+
 ## Código
+Permitem inserir blocos de código ou destacar código dentro do texto
+
+Exemplo:
+
+```
+idade = 18
+print(f"A idade é {idade}")
+```
 ## Tabelas
 ## Listas de tarefas
 ## Referências
