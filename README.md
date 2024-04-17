@@ -88,6 +88,13 @@ idade = 18
 print(f"A idade é {idade}")
 ```
 ## Tabelas
+Criam tabelas organizadas em colunas e linhas
+
+| Cabeçalho 1 | Cabeçalho 2 |
+|-------------|-------------|
+| Dado 1      | Dado 2      |
+
+
 ## Listas de tarefas
 ## Referências
 ## Notas de rodapé
