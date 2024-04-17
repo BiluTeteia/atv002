@@ -58,9 +58,9 @@ _Texto em itálico_
 
 ~~Texto tachado~~
 
-<sub> Texto subscrito </sub>
+Texto <sub>subscrito</sub>
 
-<sup> Texto sobrescrito </sup>
+Texto <sup>sobrescrito</sup>
 
 ## Citações em bloco
 São usados para destacar uma citação ou  bloco de texto
