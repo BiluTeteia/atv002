@@ -41,6 +41,12 @@ Exemplo:
 [https://www.youtube.com/](URL) para criar um link
 
 ## Imagens
+Inserem imagens em um documento Markdown
+
+Exemplo:
+
+![Imagem](URL.da_imagem)
+
 ## Ênfase
 ## Citações em bloco
 ## Linhas Horizontais
