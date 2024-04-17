@@ -20,13 +20,26 @@ Aqui temos um paragrafo.
 ## Listas 
 Permitem criar listas ordenadas ou não ordenadas
 
-Exemplo:
+Exemplo de não ordenada:
 * Item 1
 * Item 2
 * Item 3
 * Item 4
 
+Exemplo de ordenada:
+
+1. Item 1
+2. Item 2
+3. Item 3
+4. Item 4
+
 ## Links
+Criam links para outras páginas web
+
+Exemplo:
+
+[https://www.youtube.com/](URL) para criar um link
+
 ## Imagens
 ## Ênfase
 ## Citações em bloco
