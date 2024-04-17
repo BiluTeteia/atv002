@@ -85,18 +85,21 @@ Exemplo:
 
 ```
 idade = 18
-print(f"A idade é {idade}")
+console.log(`A idade é ${idade}`)
 ```
 ## Tabelas
-Criam tabelas organizadas em colunas e linhas
-
 | Cabeçalho 1 | Cabeçalho 2 |
 |-------------|-------------|
 | Dado 1      | Dado 2      |
 
-
 ## Listas de tarefas
+Criam listas de tarefas que podem ser marcadas como concluídas ou pendentes
+
+Exemplo:
+
+- [x] Tarefa concluída
+- [ ] Tarefa pendente
+
 ## Referências
 ## Notas de rodapé
 ## Alertas
-
