@@ -44,9 +44,7 @@ Exemplo:
 Inserem imagens em um documento Markdown
 
 Exemplo:
-
-![Imagem](URL.da_imagem)
-![a](https://github.com/BiluTeteia/atv002/assets/40745516/fd35f654-0a36-482c-aff6-692f800ce6ec)
+![monalisa](https://github.com/BiluTeteia/atv002/assets/40745516/fd35f654-0a36-482c-aff6-692f800ce6ec)
 
 ## Ênfase
 Permitem enfatizar texto, como itálico, negrito, tachado, subscrito, sobrescrito
