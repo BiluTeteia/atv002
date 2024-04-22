@@ -44,6 +44,7 @@ Exemplo:
 Inserem imagens em um documento Markdown
 
 Exemplo:
+
 ![monalisa](https://github.com/BiluTeteia/atv002/assets/40745516/fd35f654-0a36-482c-aff6-692f800ce6ec)
 
 ## Ênfase
